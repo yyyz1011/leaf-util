@@ -13,14 +13,7 @@
 
 2. ```import { isColor } from "leaf-util";```
 
-## How to Publish
+## Function
 
-1. ```npm run build```
-
-2. Updated version number
-
-3. Move readme. md and package.json to the dist folder
-
-4. ```cd dist```
-
-5. ```npm publish```
+* ```isColor``` Determines whether the string is a hexadecimal color value
+* ```numberTranToCN``` Digital conversion of Chinese characters

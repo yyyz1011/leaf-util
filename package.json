@@ -1,0 +1,33 @@
+{
+  "name": "leaf-util",
+  "version": "1.0.0",
+  "description": "Some utility functions for personal use",
+  "main": "rollup.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyyz1011/leaf-util.git"
+  },
+  "author": "YeZhou",
+  "license": "ISC",
+  "keywords": [
+    "rollup",
+    "util",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/yyyz1011/leaf-util/issues"
+  },
+  "homepage": "https://github.com/yyyz1011/leaf-util#readme",
+  "devDependencies": {
+    "rollup": "^2.70.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.2"
+  }
+}

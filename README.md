@@ -12,3 +12,15 @@
 1. ```yarn add leaf-util```
 
 2. ```import { isColor } from "leaf-util";```
+
+## How to Publish
+
+1. ```npm run build```
+
+2. Updated version number
+
+3. Move readme. md and package.json to the dist folder
+
+4. ```cd dist```
+
+5. ```npm publish```

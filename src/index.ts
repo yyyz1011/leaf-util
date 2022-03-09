@@ -1,3 +1,4 @@
-import isColor from "./modules/is-colors";
+import isColor from "./modules/isColor";
+import numberTranToCN from "./modules/numberTranToCN";
 
-export { isColor };
+export { isColor, numberTranToCN };

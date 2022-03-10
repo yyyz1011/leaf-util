@@ -18,5 +18,7 @@
 - `isPhone` Check if it's a cell phone number
 - `isMail` Verify that the mailbox format is correct
 - `isObject` Verify whether it is object
+- `isQQAccount` Verify the QQ account is correct
+- `isWeChatAccount` Verify the WeChat account is correct
 - `formatPrice` Digital conversion currency format
 - `flatObjectByChained` Chain flattening of an object

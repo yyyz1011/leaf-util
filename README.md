@@ -19,3 +19,4 @@
 - `isMail` Verify that the mailbox format is correct
 - `isObject` Verify whether it is object
 - `formatPrice` Digital conversion currency format
+- `flatObjectByChained` Chain flattening of an object

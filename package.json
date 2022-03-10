@@ -1,6 +1,6 @@
 {
   "name": "leaf-util",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Some utility functions for personal use",
   "main": "rollup.config.js",
   "scripts": {

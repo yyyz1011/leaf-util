@@ -4,6 +4,7 @@ import isMail from "./modules/isEmail";
 import isObject from "./modules/isObject";
 import isQQAccount from "./modules/isQQAccount";
 import isWeChatAccount from "./modules/isWeChatAccount";
+import isPC from "./modules/isPC";
 import formatPrice from "./modules/formatPrice";
 import flatObjectByChained from "./modules/flatObjectByChained";
 
@@ -14,6 +15,7 @@ export {
   isObject,
   isQQAccount,
   isWeChatAccount,
+  isPC,
   formatPrice,
   flatObjectByChained,
 };

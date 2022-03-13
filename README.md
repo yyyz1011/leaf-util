@@ -20,5 +20,6 @@
 - `isObject` Verify whether it is object
 - `isQQAccount` Verify the QQ account is correct
 - `isWeChatAccount` Verify the WeChat account is correct
+- `isPC` Check whether it is a PC page
 - `formatPrice` Digital conversion currency format
 - `flatObjectByChained` Chain flattening of an object

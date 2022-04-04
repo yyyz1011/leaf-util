@@ -7,6 +7,7 @@ import isWeChatAccount from "./modules/isWeChatAccount";
 import isPC from "./modules/isPC";
 import formatPrice from "./modules/formatPrice";
 import flatObjectByChained from "./modules/flatObjectByChained";
+import currentBrowser from "./modules/currentBrowser";
 
 export {
   isColor,
@@ -18,4 +19,5 @@ export {
   isPC,
   formatPrice,
   flatObjectByChained,
+  currentBrowser
 };

@@ -23,3 +23,4 @@
 - `isPC` Check whether it is a PC page
 - `formatPrice` Digital conversion currency format
 - `flatObjectByChained` Chain flattening of an object
+- `currentBrowser` Check the current browser type
